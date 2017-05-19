@@ -17,7 +17,7 @@ baseurl: ""
 title: Áreas locais de mercado de trabalho
 
 # Short description of your site
-description: 3174
+#description: 3174
 
 # --- Navigation bar options --- #
 
@@ -36,7 +36,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/rst.png"
+#title-img: "/img/rst.png"
 
 # --- Footer options --- #
 
