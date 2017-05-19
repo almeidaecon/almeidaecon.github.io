@@ -23,7 +23,7 @@ title: Áreas locais de mercado de trabalho
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Sobre"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -36,7 +36,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-#title-img: "/img/rst.png"
+title-img: "/img/rst.png"
 
 # --- Footer options --- #
 
